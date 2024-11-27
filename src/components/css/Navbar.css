@@ -1,0 +1,118 @@
+/* Navbar styles */
+.navbar {
+    background-color: #1f1f1f; /* Dark background */
+    padding: 0.5rem 1rem; /* Reduced padding for a smaller height */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Darker shadow */
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    height: 40px;
+}
+
+.logo-text {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-left: 0.5rem;
+    color: #ffffff; /* White color for logo text */
+}
+
+.menu-icon {
+    display: none;
+    cursor: pointer;
+}
+
+.bar1, .bar2, .bar3 {
+    width: 25px;
+    height: 3px;
+    background-color: #ffffff; /* White color for hamburger icon */
+    margin: 4px 0;
+    transition: 0.4s;
+}
+
+.change.bar1 {
+    transform: rotate(-45deg) translate(-5px, 5px);
+}
+
+.change.bar2 {
+    opacity: 0;
+}
+
+.change.bar3 {
+    transform: rotate(45deg) translate(-5px, -5px);
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem; /* Reduced gap between links */
+    transition: 0.5s;
+}
+
+.nav-link {
+    color: #ffffff; /* White color for links */
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 0.4rem 0.8rem; /* Reduced padding for links */
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #60a5fa; /* Light blue hover effect */
+}
+
+/* Button styles */
+button {
+    background-color: #322964; /* Dark purple background for buttons */
+    color: white;
+    padding: 0.4rem 1rem; /* Slightly reduced button padding */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #60a5fa; /* Light blue on hover */
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .menu-icon {
+        display: block;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        position: absolute;
+        top: 100%;
+        left: -100%; /* Hide menu off-screen initially */
+        background-color: #1f1f1f; /* Dark background for mobile menu */
+        width: 100%;
+        text-align: center;
+    }
+
+    .nav-links.nav-active {
+        left: 0; /* Slide in the menu */
+    }
+
+    .nav-link {
+        padding: 1rem;
+        width: 100%;
+        border-bottom: 1px solid #444; /* Darker border for links */
+    }
+}

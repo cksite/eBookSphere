@@ -1,0 +1,21 @@
+.policy-container {
+    max-width: 800px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 30px 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .policy-container h2 {
+    font-size: 2em;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .policy-container p {
+    line-height: 1.6;
+    color: #555;
+  }
+  

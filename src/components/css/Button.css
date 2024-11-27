@@ -1,0 +1,37 @@
+/* Button.css */
+.myButton-btn-9 {
+  border: none;
+  position: relative; /* Required for pseudo-element positioning */
+  transition: all 0.3s ease;
+  overflow: hidden;
+  padding: 12px 24px; /* Top/bottom and left/right padding */
+  font-size: 16px; /* Adjust font size */
+  color: white; /* Default text color */
+  border-radius: 15px; /* Rounded corners */
+  display: inline-block; /* Ensure it displays as a block */
+  cursor: pointer; /* Show pointer on hover */
+  z-index: 1; /* Ensure button is above pseudo-element */
+}
+
+.myButton-btn-9:after {
+  position: absolute;
+  content: " ";
+  z-index: -1; /* Behind the button */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #1fd1f9; /* Base background color */
+  background-image: linear-gradient(315deg, #1fd1f9 0%, #b621fe 74%); /* Gradient background */
+  transition: all 0.3s ease; /* Transition for smooth hover effect */
+  border-radius: 8px; /* Match border radius of the button */
+}
+
+.myButton-btn-9:hover {
+  background: transparent; /* Background disappears on hover */
+  color: #fff; /* Change text color on hover */
+}
+
+.myButton-btn-9:hover:after {
+  transform: scale(2) rotate(180deg); /* Scale and rotate on hover */
+}
