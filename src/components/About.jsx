@@ -27,11 +27,7 @@ const About = () => {
           <p>Discover more amazing eBooks across different categories.</p>
           <Button name="Explore More" />
         </div>
-        <div className="card">
-          <h3>Upload Books</h3> {/* Change context to uploading books */}
-          <p>Share your favorite eBooks with the community by uploading them here.</p>
-          <Button name="Upload Now" />
-        </div>
+        
 
         <div className="card">
           <h3>Download eBooks</h3> {/* Adjusted to reflect downloading eBooks */}

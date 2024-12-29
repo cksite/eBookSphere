@@ -2,6 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import departmentsData from '../data/departments.json';
 import Button from './Button';
+import Uploadorganiser from './alert/Uploadorganiser';
 
 const Department = () => {
   const { deptName } = useParams();
@@ -15,6 +16,11 @@ const Department = () => {
     <div className="bg-red-300 min-h-screen">
       <div className="text-center pt-16">
         <h1 className="text-3xl font-bold mb-6">{deptName} Department</h1>
+        {/* alert */}
+
+        <Uploadorganiser/>
+
+
         <div className="flex flex-wrap justify-center gap-6">
           {Object.keys(department.semesters).map((sem) => {
             const semesterLink = department.semesters[sem];
@@ -35,10 +41,11 @@ const Department = () => {
                 {/* Check if semester link is valid before rendering the button */}
                 {semesterLink && semesterLink.length > 0 ? (
                   <a href={semesterLink} target="_blank" rel="noopener noreferrer">
-                    <Button name={`Pay For Sem ${sem}`} />
+                    {/* <Button name={`Pay For Sem ${sem}`} /> */}
+                    <Button name={`Click Here`} />
                   </a>
                 ) : (
-                  <span className="text-gray-500 mb-2">Payment Link Not Available</span>
+                  <span className="text-gray-500 mb-2">Organizer Not Available</span>
                 )}
               </div>
             );

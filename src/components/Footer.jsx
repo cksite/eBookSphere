@@ -16,6 +16,9 @@ const Footer = () => {
           <li><Link to="/contact" className="footer-link">Contact Us</Link></li>
         </ul>
         <p className="footer-text">&copy; 2024 eBookSphere. All Rights Reserved.</p>
+        <p className="footer-text">
+          Developed by <a href="https://www.linkedin.com/in/chandan-kumar-saw-031845220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Chandan Shah</a>
+        </p>
       </div>
     </footer>
   );

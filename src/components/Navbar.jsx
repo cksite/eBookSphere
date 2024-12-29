@@ -36,7 +36,7 @@ const Navbar = () => {
           <span className="logo-text">eBookSphere</span>
         </Link>
 
-        <div className="menu-icon" onClick={toggleMenu}>
+        <div className="menu-icon" onClick={toggleMenu}  ref={menuRef}>
           <div className={`bar1 ${isOpen ? 'change' : ''}`}></div>
           <div className={`bar2 ${isOpen ? 'change' : ''}`}></div>
           <div className={`bar3 ${isOpen ? 'change' : ''}`}></div>
@@ -54,3 +54,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+

@@ -59,7 +59,7 @@
 .nav-links {
     list-style: none;
     display: flex;
-    gap: 1.5rem; /* Reduced gap between links */
+    gap: 5 px; /* Reduced gap between links */
     transition: 0.5s;
 }
 
