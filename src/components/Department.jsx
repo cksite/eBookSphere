@@ -52,6 +52,7 @@ const Department = () => {
           })}
         </div>
       </div>
+      <br/>
     </div>
   );
 };
