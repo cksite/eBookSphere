@@ -1,0 +1,25 @@
+.price-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .discounted-price {
+    font-size: 24px;
+    color: #000000; /* Example color for discounted price */
+    font-weight: bold;
+    margin: 0 10px;
+  }
+  
+  .original-price {
+    font-size: 16px;
+    color: #9e9e9e; /* Example color for original price */
+    text-decoration: line-through;
+    margin: 0 10px;
+  }
+  
+  .discount-percentage {
+    font-size: 14px;
+    color: #388e3c; /* Example color for discount percentage */
+  }
+  

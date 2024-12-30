@@ -6,7 +6,7 @@ function Uploadorganiser() {
       <div
         className="alert alert-info alert-dismissible fade show"
         role="alert"
-        style={{ maxWidth: '800px', margin: '0 auto' }}
+        style={{ maxWidth: '700px', margin: '0 auto' }}
       >
         <strong>📚 Have a Study Organizer?</strong><br />
         Upload it now to help and inspire students! Your contribution can make a real difference. 🌟

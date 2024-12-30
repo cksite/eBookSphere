@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom';
 import departmentsData from '../data/departments.json';
 import Button from './Button';
 import Uploadorganiser from './alert/Uploadorganiser';
+import Price from './Price';
 
 const Department = () => {
   const { deptName } = useParams();
@@ -18,7 +19,7 @@ const Department = () => {
         <h1 className="text-3xl font-bold mb-6">{deptName} Department</h1>
         {/* alert */}
 
-        <Uploadorganiser/>
+        <Uploadorganiser />
 
 
         <div className="flex flex-wrap justify-center gap-6">
@@ -38,12 +39,21 @@ const Department = () => {
                 />
                 <h2 className="text-xl font-semibold mb-2">Semester {sem}</h2>
 
+
+
                 {/* Check if semester link is valid before rendering the button */}
                 {semesterLink && semesterLink.length > 0 ? (
-                  <a href={semesterLink} target="_blank" rel="noopener noreferrer">
-                    {/* <Button name={`Pay For Sem ${sem}`} /> */}
-                    <Button name={`Click Here`} />
-                  </a>
+                  <>
+
+                    {/* adding price component */}
+
+                    {/* <Price discountedPrice={0} originalPrice={99} discountPercentage={100} /> */}
+
+                    <a href={semesterLink} target="_blank" rel="noopener noreferrer">
+                      {/* <Button name={`Pay For Sem ${sem}`} /> */}
+                      <Button name={`Click Here`} />
+                    </a>
+                  </>
                 ) : (
                   <span className="text-gray-500 mb-2">Organizer Not Available</span>
                 )}
@@ -52,7 +62,7 @@ const Department = () => {
           })}
         </div>
       </div>
-      <br/>
+      <br />
     </div>
   );
 };
