@@ -51,7 +51,7 @@ const Department = () => {
 
                     <a href={semesterLink} target="_blank" rel="noopener noreferrer">
                       {/* <Button name={`Pay For Sem ${sem}`} /> */}
-                      <Button name={`Click Here`} />
+                      <Button name={`Buy Now`} />
                     </a>
                   </>
                 ) : (
