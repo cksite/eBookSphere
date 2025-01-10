@@ -4,7 +4,7 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 function Uploadorganiser() {
   // Function to open WhatsApp
   const openWhatsApp = () => {
-    const whatsappURL = `https://wa.me/8107034555`;
+    const whatsappURL = `https://wa.me/+918107034555`;
     window.open(whatsappURL, "_blank");
   };
 
