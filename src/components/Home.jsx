@@ -2,7 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import departmentsData from '../data/departments.json';
 import Button from './Button';
-// import Joingroup from './alert/Joingroup';
+import Joingroup from './alert/Joingroup';
+import Ads from './alert/AdAlert';
 
 const Home = () => {
   return (
@@ -10,7 +11,9 @@ const Home = () => {
 
       {/* alert */}
 
-      {/* <Joingroup/> */}
+      <Joingroup/>
+      <Ads/>
+
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4">
         {Object.keys(departmentsData).map((dept) => (
