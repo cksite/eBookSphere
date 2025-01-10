@@ -112,7 +112,7 @@ function AdAlert() {
           cursor: 'pointer',
         }}></button>
       </div>
-      <br />
+      
     </>
   );
 }
