@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 function AdAlert() {
-  const offerEndTimeUTC = new Date("2025-01-15T03:05:10Z").getTime();
+  const offerEndTimeUTC = new Date("2025-01-16T03:05:10Z").getTime();
   
   // Initialize visibility based on the initial offer end time check
   const [isVisible, setIsVisible] = useState(offerEndTimeUTC - new Date().getTime() > 0);
