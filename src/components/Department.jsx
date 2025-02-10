@@ -47,7 +47,7 @@ const Department = () => {
 
                     {/* adding price component */}
 
-                    <Price discountedPrice={99} originalPrice={199} discountPercentage={50} />
+                    <Price discountedPrice={0} originalPrice={199} discountPercentage={100} />
 
                     <a href={semesterLink} target="_blank" rel="noopener noreferrer">
                       {/* <Button name={`Pay For Sem ${sem}`} /> */}

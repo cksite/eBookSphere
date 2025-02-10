@@ -172,3 +172,180 @@
     }
   }
 }
+
+
+
+// razorpay testing data
+
+{
+  "CSE": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/n8gNcRb",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "IT": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "CSBS": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "CSDS": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "AIML": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "ECE": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "Electrical": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "Mechanical": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "Civil": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "Food Technology": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "Biotechnology": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "Chemical Engineering": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "Aerospace Engineering": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  },
+  "Automobile Engineering": {
+    "semesters": {
+        "1": "https://rzp.io/rzp/cse3",
+        "2": "https://rzp.io/rzp/cse3",
+        "3": "https://rzp.io/rzp/cse3",
+        "4": "https://rzp.io/rzp/cse3",
+        "5": "https://rzp.io/rzp/cse3",
+        "6": "https://rzp.io/rzp/cse3",
+        "7": "https://rzp.io/rzp/cse3",
+        "8": "https://rzp.io/rzp/cse3"
+    }
+  }
+}
+
+

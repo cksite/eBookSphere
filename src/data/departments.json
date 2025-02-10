@@ -1,172 +1,172 @@
+
 {
-    "CSE": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/n8gNcRb",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "IT": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "CSBS": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "CSDS": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "AIML": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "ECE": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "Electrical": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "Mechanical": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "Civil": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "Food Technology": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "Biotechnology": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "Chemical Engineering": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "Aerospace Engineering": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
-    },
-    "Automobile Engineering": {
-      "semesters": {
-          "1": "https://rzp.io/rzp/cse3",
-          "2": "https://rzp.io/rzp/cse3",
-          "3": "https://rzp.io/rzp/cse3",
-          "4": "https://rzp.io/rzp/cse3",
-          "5": "https://rzp.io/rzp/cse3",
-          "6": "https://rzp.io/rzp/cse3",
-          "7": "https://rzp.io/rzp/cse3",
-          "8": "https://rzp.io/rzp/cse3"
-      }
+  "CSE": {
+    "semesters": {
+      "1": "https://drive.google.com/drive/folders/1NA6Qad3DfWD-PeY--QxH8vywrUKEOLRU?usp=sharing",
+      "2": "https://drive.google.com/drive/folders/1m6PBet3NBoV63TXP5Ormqi2jmwxYBxRb?usp=drive_link",
+      "3": "https://drive.google.com/drive/folders/1kKUeRmRJZPDMXaLcpSNt0_vFwsOW7hIq?usp=sharing",
+      "4": "https://drive.google.com/drive/folders/1r-nJO0jFReDxWqx_ci31HAcVTsjLFEoW",
+      "5": "https://drive.google.com/drive/folders/1JledAowxcDTSYEM4ZzmNLrOakp6VbZOh?usp=sharing",
+      "6": "https://drive.google.com/drive/folders/1kRd8dUxpDw0QrsqoP9LZMshhfYWwVCDf?usp=sharing",
+      "7": "https://drive.google.com/drive/folders/19nMabbmFBZoQzhI9VbNKAAXyXm1IJnGK",
+      "8": "https://drive.google.com/drive/folders/1jI10fJ861MnK30lBR3OFIaPW9bmDvyaO?usp=sharing"
+    }
+  },
+  "IT": {
+    "semesters": {
+      "1": "https://drive.google.com/drive/folders/1NA6Qad3DfWD-PeY--QxH8vywrUKEOLRU?usp=sharing",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    }
+  },
+  "CSBS": {
+    "semesters": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    }
+  },
+  "CSDS": {
+    "semesters": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    }
+  },
+  "AIML": {
+    "semesters": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    }
+  },
+  "ECE": {
+    "semesters": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    }
+  },
+  "Electrical": {
+    "semesters": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    }
+  },
+  "Mechanical": {
+    "semesters": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    }
+  },
+  "Civil": {
+    "semesters": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    }
+  },
+  "Food Technology": {
+    "semesters": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    }
+  },
+  "Biotechnology": {
+    "semesters": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    }
+  },
+  "Chemical Engineering": {
+    "semesters": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    }
+  },
+  "Aerospace Engineering": {
+    "semesters": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    }
+  },
+  "Automobile Engineering": {
+    "semesters": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
     }
   }
-  
+}
 
