@@ -22,7 +22,7 @@ const Home = () => {
             <div className="px-6 py-4">
               <h5 className="font-bold text-xl mb-2">{dept}</h5>
               <p className="text-gray-700 text-base">
-                Explor the {dept} department and access the semester organizers.
+                Explore the {dept} department and access the semester organizers.
               </p>
             </div>
             <div className="px-6 py-4">
